@@ -1,0 +1,5 @@
+return d e f...z is not working 
+printf me &a &b.. q ni use krte hai as it is an addresss        
+I want to print these outputs in a new line                    (Solved)
+Always declare char in ''                                      (Solved)
+We can use int, char, double in the beginning of main          (Solved)

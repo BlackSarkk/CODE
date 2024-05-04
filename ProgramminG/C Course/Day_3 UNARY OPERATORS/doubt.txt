@@ -1,0 +1,2 @@
+In char, If a=0 then it is giving no output. since it is --a it should give -1
+In Int, If a=0 then it giving -1 as output since it is --a. 
